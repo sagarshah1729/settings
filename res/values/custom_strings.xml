@@ -22,5 +22,10 @@
     <string name="mod_version">Cosmic-OS version</string>
     <string name="mod_version_default">Unknown</string>
 
+    <!-- Changelog -->
+    <string name="changelog_title">Changelog</string>
+    <string name="changelog_summary">Since the last update</string>
+    <string name="changelog_error">Unable to load changelog</string>
+
 </resources>
 
